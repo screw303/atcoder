@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240918_1",
+    "title": "AtCoder Daily Training EASY 2024/09/18 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240918_1"
+  },
+  "tasks": [
+    {
+      "id": "abc321_a",
+      "label": "A",
+      "title": "321-like Checker",
+      "url": "https://atcoder.jp/contests/adt_easy_20240918_1/tasks/abc321_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc361_a",
+      "label": "B",
+      "title": "Insert",
+      "url": "https://atcoder.jp/contests/adt_easy_20240918_1/tasks/abc361_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc273_b",
+      "label": "C",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/adt_easy_20240918_1/tasks/abc273_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc291_b",
+      "label": "D",
+      "title": "Trimmed Mean",
+      "url": "https://atcoder.jp/contests/adt_easy_20240918_1/tasks/abc291_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "E",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_easy_20240918_1/tasks/abc290_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

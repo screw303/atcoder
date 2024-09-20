@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240919_1",
+    "title": "AtCoder Daily Training EASY 2024/09/19 16:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240919_1"
+  },
+  "tasks": [
+    {
+      "id": "abc270_a",
+      "label": "A",
+      "title": "1-2-4 Test",
+      "url": "https://atcoder.jp/contests/adt_easy_20240919_1/tasks/abc270_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc309_a",
+      "label": "B",
+      "title": "Nine",
+      "url": "https://atcoder.jp/contests/adt_easy_20240919_1/tasks/abc309_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc225_b",
+      "label": "C",
+      "title": "Star or Not",
+      "url": "https://atcoder.jp/contests/adt_easy_20240919_1/tasks/abc225_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc229_b",
+      "label": "D",
+      "title": "Hard Calculation",
+      "url": "https://atcoder.jp/contests/adt_easy_20240919_1/tasks/abc229_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc291_c",
+      "label": "E",
+      "title": "LRUD Instructions 2",
+      "url": "https://atcoder.jp/contests/adt_easy_20240919_1/tasks/abc291_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
