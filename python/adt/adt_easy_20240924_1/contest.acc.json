@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240924_1",
+    "title": "AtCoder Daily Training EASY 2024/09/24 15:30start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240924_1"
+  },
+  "tasks": [
+    {
+      "id": "abc349_a",
+      "label": "A",
+      "title": "Zero Sum Game",
+      "url": "https://atcoder.jp/contests/adt_easy_20240924_1/tasks/abc349_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc308_a",
+      "label": "B",
+      "title": "New Scheme",
+      "url": "https://atcoder.jp/contests/adt_easy_20240924_1/tasks/abc308_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc262_b",
+      "label": "C",
+      "title": "Triangle (Easier)",
+      "url": "https://atcoder.jp/contests/adt_easy_20240924_1/tasks/abc262_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "D",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_easy_20240924_1/tasks/abc285_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc344_c",
+      "label": "E",
+      "title": "A+B+C",
+      "url": "https://atcoder.jp/contests/adt_easy_20240924_1/tasks/abc344_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}

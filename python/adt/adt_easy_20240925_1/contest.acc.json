@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_easy_20240925_1",
+    "title": "AtCoder Daily Training EASY 2024/09/25 16:00start",
+    "url": "https://atcoder.jp/contests/adt_easy_20240925_1"
+  },
+  "tasks": [
+    {
+      "id": "abc328_a",
+      "label": "A",
+      "title": "Not Too Hard",
+      "url": "https://atcoder.jp/contests/adt_easy_20240925_1/tasks/abc328_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc359_a",
+      "label": "B",
+      "title": "Count Takahashi",
+      "url": "https://atcoder.jp/contests/adt_easy_20240925_1/tasks/abc359_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc353_b",
+      "label": "C",
+      "title": "AtCoder Amusement Park",
+      "url": "https://atcoder.jp/contests/adt_easy_20240925_1/tasks/abc353_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc232_b",
+      "label": "D",
+      "title": "Caesar Cipher",
+      "url": "https://atcoder.jp/contests/adt_easy_20240925_1/tasks/abc232_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    },
+    {
+      "id": "abc300_c",
+      "label": "E",
+      "title": "Cross",
+      "url": "https://atcoder.jp/contests/adt_easy_20240925_1/tasks/abc300_c",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "main.py"
+      }
+    }
+  ]
+}
